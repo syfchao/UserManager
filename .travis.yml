@@ -6,7 +6,6 @@ compiler:
 os:
   - linux
   
-#sudo: required
 dist: trusty
 
 env:
