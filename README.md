@@ -48,12 +48,10 @@ UserManager has been developed in C/C++ and Qt framework. The application has be
 
 ### Installation 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 git clone https://github.com/xvass/UserManager.git
 cd UserManager
 chmod +x install_and_run.sh
 ./install_and_run.sh
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### UserManager Main View
