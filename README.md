@@ -1,7 +1,7 @@
 
 # UserManager [![Build Status](https://travis-ci.com/xvass/UserManager.svg?branch=master)](https://travis-ci.com/xvass/UserManager)
 
-UserManager has been developed in C/C++ and Qt framework. The application has been designed to provide assistance to Linux administrators in order to manage users and groups accounts. This tool has a friendly dashboard while performing the following functionality
+UserManager has been developed in C/C++ and Qt framework. The application has been designed to provide assistance to Linux administrators in order to manage users and group accounts. This tool has a friendly dashboard offering the following functionality 
 
 * add,edit,delete user accounts and groups
 * add users to groups
@@ -33,18 +33,18 @@ UserManager has been developed in C/C++ and Qt framework. The application has be
 
 ### Succesfully tested in the following architectures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 - Linux 5.3.0-kali2-amd64 #1 SMP Debian 5.3.9-3kali1 (2019-11-20) x86_64 GNU/Linux
 
 - Linux 4.15.0-29-generic #31-Ubuntu SMP Tue Jul 17 15:39:52 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ------------------
 
 ### Installation prerequisites ( optional )
 
-* apt install libcanberra-gtk-module libcanberra-gtk3-module
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 ### Installation 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
