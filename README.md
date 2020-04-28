@@ -1,8 +1,8 @@
 
 # UserManager 
 
-| Linux Build    |
------------------
+|   Linux Build  |
+:----------------:
 | [![Build Status](https://travis-ci.com/xvass/UserManager.svg?branch=master)](https://travis-ci.com/xvass/UserManager) |
 
 UserManager has been developed in C/C++ and Qt framework. The application has been designed to provide assistance to Linux administrators in order to manage users and group accounts. This tool has a friendly dashboard and offers the following functionality 
